@@ -3,7 +3,7 @@
 
 ## About this Project
 
-The idea of the Robot is:
+The idea of the Robots is:
 
 _"To be a central automation for extraction and processing of important reports for the management of prices, stock, and catalog of the Supermarket"._
 
