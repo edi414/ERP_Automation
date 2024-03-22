@@ -1,10 +1,6 @@
 # Robot: ERP Automation
  A comprehensive automation solution for inventory management, pricing, and product enrichment within a supermarket ERP.
 
-# Price Extract
-
-https://github.com/edi414/ERP_Automation/assets/80610321/09f24308-127b-483f-9f80-c7745f461f17
-
 ## About this Project
 
 The idea of the Robot is:
@@ -26,6 +22,10 @@ Connect with me at [LinkedIn](https://www.linkedin.com/in/edivaldo-bezerra/).
 Also, you can use this Project as you wish, either for study, for making improvements, or earning money with it!
 
 It's free!
+
+# Price Extract
+
+https://github.com/edi414/ERP_Automation/assets/80610321/09f24308-127b-483f-9f80-c7745f461f17
 
 ## Some Observations about this Robot
 
