@@ -1,7 +1,7 @@
 # Robot: ERP Automation
  A comprehensive automation solution for inventory management, pricing, and product enrichment within a supermarket ERP.
 
-# MindCast
+# Price Extract
 
 ![Preview-Screens](https://gifyu.com/image/SVzy0)
 
