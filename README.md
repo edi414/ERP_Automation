@@ -3,7 +3,7 @@
 
 # Price Extract
 
-![Preview-Screens](https://gifyu.com/image/SVzy0)
+https://github.com/edi414/ERP_Automation/assets/80610321/8d290321-df02-4e39-a75a-8187ea7c095e
 
 If you want to take a look on all screens of the App, they are [here](google drive).
 
