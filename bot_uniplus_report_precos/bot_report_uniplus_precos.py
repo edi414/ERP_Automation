@@ -187,7 +187,7 @@ class Bot(DesktopBot):
                 try:
                     # Conectar ao banco de dados
                     postgres_conn = psycopg2.connect(
-                        "postgresql://postgres:G1CG2B*6d6GEDdABGcf--dA5cb*5bEf6@monorail.proxy.rlwy.net:48186/railway"
+                        ####conexão com o banco
                     )
                     with postgres_conn.cursor() as cursor:
                         ## deleta todas as linhas da tabela
