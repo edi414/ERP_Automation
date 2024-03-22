@@ -3,11 +3,7 @@
 
 # Price Extract
 
-
-
-https://github.com/edi414/ERP_Automation/assets/80610321/6d180792-a984-411d-b1bb-9b7e5e6efbfa
-
-
+https://github.com/edi414/ERP_Automation/assets/80610321/09f24308-127b-483f-9f80-c7745f461f17
 
 If you want to take a look on all screens of the App, they are [here](google drive).
 
