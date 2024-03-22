@@ -61,10 +61,12 @@ iOS .ipa installer: Soon! -->
 
 - Processing the extracted file, performing the ETL treatment process
 
-- Connection to an online database on Railway (PostGres)
+- Connection to an online database on Railway (PostGresql)
     - Cleaning of the current table
     - Line by line insertion of data into the bank
     - Deletion of the extracted excel file
+
+![loading_sync_db](https://github.com/edi414/ERP_Automation/assets/80610321/16cdfff0-4d0c-4185-b2de-58dbbd3d1f08)
 
 <!-- ## Getting Started
 
